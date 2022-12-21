@@ -5,7 +5,7 @@
 <br>
 
 ### Выбранная модель в среде NetLogo:
-[Follower](http://http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Art/Follower.nlogo)
+[Follower](http://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Art/Follower.nlogo)
 
 <br>
 
